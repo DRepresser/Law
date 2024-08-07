@@ -126,4 +126,6 @@ dmypy.json
 
 *.lock
 
-*.bin
+applied/*/index.faiss
+applied/*/index.pkl
+applied/*.bin
